@@ -5,6 +5,7 @@
 - [The 3-2-1 Backup Strategy
 ](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/)
 - [SSD vs HDD](https://www.pcmag.com/comparisons/ssd-vs-hdd-whats-the-difference)
+- [Memory cards and USB drives are NOT designed for long term storage](https://www.integralmemory.com/faq1/how-long-will-data-stay-valid-for-on-a-usb-drive/)
 - [Magnetic Tape](https://www.nakivo.com/blog/tape-backup-overview/)
 - [Self Hosting](https://ente.io/blog/self-hosting-101/)
 - [Network Attached Storage](https://www.synology.com/en-global/dsm/solution/what-is-nas/for-home)
