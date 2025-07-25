@@ -45,37 +45,37 @@
 ## Software
 - [Dr.Fone](https://drfone.wondershare.net/) Backup/Restore/Migrate between iPhone and Android
 - [iMazing](https://imazing.com/) Fully Backup/Restore/Migrate iPhones
-- [LocalSend](https://localsend.org/)
-- [Simple Transfer Pro](https://rambax.com/simpletransfer)
-- [BleachBit](https://www.bleachbit.org/)
-- [CCleaner](https://www.ccleaner.com/ccleaner-tc)
-- [Recuva](https://www.ccleaner.com/recuva)
-- [dupeGuru](https://dupeguru.voltaicideas.net/)
-- [WinDirStat](https://windirstat.net/)
-- [Filelight](https://apps.kde.org/filelight/)
-- [Everything](https://www.voidtools.com/) 
-- [FreeFileSync](https://freefilesync.org/)
-- [SyncThing](https://syncthing.net/)
-- [SyncThing Tray](https://martchus.github.io/syncthingtray/)
-- [SyncThing Android](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid&hl=en)
-- [Power Toys: Image Resizer](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US)
-- [Caesium Image Compression](https://saerasoft.com/caesium)
-- [Handbrake](https://handbrake.fr/)
-- [Kdenlive](https://kdenlive.org/)
-- [GIMP](https://www.gimp.org/)
-- [Paint.NET](https://www.getpaint.net/)
-- [Audacity](https://www.audacityteam.org/)
-- [Greenshot](https://getgreenshot.org/)
-- [GoFullPage](https://gofullpage.com/)
-- [YouTube Downloader](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)
-- [PDF Arranger](https://github.com/pdfarranger/pdfarranger/releases/latest/)
-- [7zip](https://www.7-zip.org/)
-- [Axcrypt](https://axcrypt.net/information/legacy-downloads/)
-- [Veracrypt](https://veracrypt.io/)
-- [KeePass](https://keepass.info/)
-- [KeePassium](https://keepassium.com/)
-- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
-- [Keychain (Apple)](https://www.intego.com/mac-security-blog/mac-and-ios-keychain-tutorial-how-apples-icloud-keychain-works/)
+- [LocalSend](https://localsend.org/) Send files between computers, iphones, android phones, etc..
+- [Simple Transfer Pro](https://rambax.com/simpletransfer) Transfer videos/images from and to your iPhone
+- [BleachBit](https://www.bleachbit.org/) Cleans and frees up disk space
+- [CCleaner](https://www.ccleaner.com/ccleaner-tc)Cleans and frees up disk space
+- [Recuva](https://www.ccleaner.com/recuva) Recovers deleted files
+- [dupeGuru](https://dupeguru.voltaicideas.net/) Finds duplicate files on your computer
+- [WinDirStat](https://windirstat.net/) Disk usage statistics viewer and cleanup tool
+- [Filelight](https://apps.kde.org/filelight/) Disk usage visualization
+- [Everything](https://www.voidtools.com/) Instantly locate files and folders by name
+- [FreeFileSync](https://freefilesync.org/) Synchronizes files and folders
+- [SyncThing](https://syncthing.net/) Continuous file synchronization
+- [SyncThing Tray](https://martchus.github.io/syncthingtray/) Tray application for Syncthing
+- [SyncThing Android](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid&hl=en) Syncthing client for Android
+- [Power Toys: Image Resizer](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US) Easily resize images with a right-click
+- [Caesium Image Compression](https://saerasoft.com/caesium) Compress images without losing quality
+- [Handbrake](https://handbrake.fr/) Video conversion and compression 
+- [Kdenlive](https://kdenlive.org/) Video editing software
+- [GIMP](https://www.gimp.org/) Image manipulation program
+- [Paint.NET](https://www.getpaint.net/) Image and photo editing software
+- [Audacity](https://www.audacityteam.org/) Audio editing software
+- [Greenshot](https://getgreenshot.org/) Lightweight screenshot software
+- [GoFullPage](https://gofullpage.com/) Capture a full webpage screenshot in one click
+- [YouTube Downloader](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest) Download videos from YouTube
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger/releases/latest/) Merge, split, rotate, and crop PDF documents
+- [7zip](https://www.7-zip.org/) File archiver with high compression ratio
+- [Axcrypt](https://axcrypt.net/information/legacy-downloads/) Easy-to-use file encryption software
+- [Veracrypt](https://veracrypt.io/) Disk encryption software
+- [KeePass](https://keepass.info/) Crossplatform password manager
+- [KeePassium](https://keepassium.com/) KeePass client for iOS
+- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) KeePass client for Android
+- [Keychain (Apple)](https://www.intego.com/mac-security-blog/mac-and-ios-keychain-tutorial-how-apples-icloud-keychain-works/) Apple's password management app
 
 ## Discover New Software & Services
 - [Awesome Windows](https://github.com/thechampagne/awesome-windows) Free windows applications
