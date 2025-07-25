@@ -1,4 +1,4 @@
-# Omar's Data &amp; Productivity Cheatsheet
+# Omar's Data Management &amp; Productivity Cheatsheet
 
 ## Learning
 
